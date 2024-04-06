@@ -9,9 +9,9 @@ setup(
    description='Bulk Email Automation',
    license="MIT",
    long_description=long_description,
-   author='Sisay Chala',
-   author_email='sisayie@gmail.com',
-   url="https://github.com/sisayie/BulkEmail",
+   author='Anton',
+   author_email='piupiu.aff@gmail.com',
+   url="https://github.com/PiuPiuMedia/BulkEmail",
    #packages=['BulkEmail'],
    #install_requires=['smtplib', 'ssl'], #external packages as dependencies
 )
