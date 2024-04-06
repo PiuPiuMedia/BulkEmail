@@ -1,1 +1,1 @@
-Test message body
+test bulk email 
